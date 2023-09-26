@@ -1,0 +1,28 @@
+# Node.js related
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# MongoDB local files
+mongodbdump/
+data/
+dump/
+
+# React/Next.js build output
+frontend/build/
+frontend/.next/
+
+# IDE - Visual Studio Code
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.bak
+*.swp
+*.lock
