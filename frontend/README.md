@@ -14,6 +14,7 @@ A full-stack application that demonstrates JWT-based authentication using a Reac
 
 ## Features
 
+
 - User registration
 - User login
 - JWT token-based authentication
