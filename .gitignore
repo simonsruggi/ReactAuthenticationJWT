@@ -1,0 +1,31 @@
+# Dipendenze
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+/build
+/dist
+backend/dist/
+frontend/build/
+
+# Ambiente — non committare mai i valori reali, vedi .env.example
+.env
+.env.local
+.env.*.local
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Test
+/coverage
